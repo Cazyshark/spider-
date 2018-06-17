@@ -27,6 +27,6 @@
 
 - [ScrapyJs](https://pypi.python.org/pypi/scrapyjs/0.1.1) (Python Packages)
 
-- 参见 SO 上的[这篇回答](http://stackoverflow.com/questions/8550114/can-scrapy-be-used-to-scrape-dynamic-content-from-websites-that-are-using-ajax)
 
-或者用 requests 来模拟 post 对应接口。参见：[lagou_crawler](https://github.com/Allianzcortex/lagou_crawler)
+
+
