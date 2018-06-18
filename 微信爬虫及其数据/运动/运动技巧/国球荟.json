@@ -1,0 +1,39 @@
+{
+  "gzh": {
+    "wechat_name": "国球荟", 
+    "wechat_id": "CHIBDAgqh", 
+    "introduction": "★中国卫生信息与健康医疗大数据学会运动与健康专业委员会主办，是一个集运动、健康、教育、学术、科研、产业为一体的综合性平台。 ★致力于开展全民健身运动和乒乓球专业培训。", 
+    "authentication": "北京钰晟沣健康科技有限公司", 
+    "headimage": "http://wx.qlogo.cn/mmhead/Q3auHgzwzM4UmS9e1y3Z1mqmqeibrUauf8tbl5xTjUvaI0kG6pwN5TA/0"
+  }, 
+  "article": [
+    {
+      "send_id": 1000000002, 
+      "datetime": 1526273057, 
+      "type": "49", 
+      "main": 1, 
+      "title": "运动与健康乒乓球培训中心公开课", 
+      "abstract": "为响应广大学员需求，更好的让大家体验乒乓球专业知识和技能训练，本培训中心将举办青少年，学龄前儿童，成人，培训公开课活动，欢迎大家踊跃报名！", 
+      "fileid": 100000123, 
+      "content_url": "http://mp.weixin.qq.com/s?timestamp=1526290509&src=3&ver=1&signature=bGPLQNVGeYhYR39AexFWIXjn1oliE0gHSCmM43iH3fTCRRLXCasUxg99WjUhssFToInzWGb0tlYAqnehrPNbrjvW6j6PN9-2bUmu8sI*Zb8E*wh5P772CAQo75jOF2ov82ddQpHUDSiXB*y9i*4JxeeRaYc1VE2RLD-VwR5p288=", 
+      "source_url": "", 
+      "cover": "http://mmbiz.qpic.cn/mmbiz_jpg/X9KIpsyuR0XHDSJRc9M2YkUUUItFLbAn1gRoPic7MGRLHMPjftaUQ9YgtcfzlCHluaGkLLXsQX0VdloCdoatJVw/0?wx_fmt=jpeg", 
+      "author": "国球荟", 
+      "copyright_stat": 100
+    }, 
+    {
+      "send_id": 1000000001, 
+      "datetime": 1525768449, 
+      "type": "49", 
+      "main": 1, 
+      "title": "乒乓球培训班开始啦！", 
+      "abstract": "乒乓球培训班开始啦！", 
+      "fileid": 100000121, 
+      "content_url": "http://mp.weixin.qq.com/s?timestamp=1526290509&src=3&ver=1&signature=bGPLQNVGeYhYR39AexFWIXjn1oliE0gHSCmM43iH3fTCRRLXCasUxg99WjUhssFToInzWGb0tlYAqnehrPNbrkfvnGPZ7p0eJTnV1D4TkA0QT6jpkwf77Z1AWPpNfnA4rX4hM1hJuwJ36wAvlEFTYOqobhGsQTMY-YVb0Op4zVg=", 
+      "source_url": "", 
+      "cover": "http://mmbiz.qpic.cn/mmbiz_jpg/X9KIpsyuR0XFhWXtPFQIuqhK4kGjMDCVXVBVicoTvGmBsa6tMHl6gu1xSWtibNh8zgq1WggQbczSEtUIZibW76dOA/0?wx_fmt=jpeg", 
+      "author": "国球荟", 
+      "copyright_stat": 100
+    }
+  ]
+}
